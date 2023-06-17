@@ -5,8 +5,8 @@
 - 🕸️ I’m currently a member of the Research Group on Computer Networks and Multimedia Communication (GERCOM / UFPA).
 
 <div style="display:inline-block; align-items:center;">
-  <img height=180px src="https://github-readme-stats.vercel.app/api?username=caiojulio&show_icons=true&theme=dracula">
-  <img height=180px src="https://github-readme-stats.vercel.app/api/top-langs/?username=caiojulio&layout=compact&theme=dracula">
+  <a href="https://github.com/caiojulio?tab=repositories"><img height=180px src="https://github-readme-stats.vercel.app/api?username=caiojulio&show_icons=true&theme=dracula"></a>
+  <a href="https://github.com/caiojulio"><img height=180px src="https://github-readme-stats.vercel.app/api/top-langs/?username=caiojulio&layout=compact&theme=dracula"></a>
 </div>
 
 ##
