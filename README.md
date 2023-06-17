@@ -1,16 +1,26 @@
-### Hi there 👋
+<h1> Hi, welcome to my profile! </h1>
 
-<!--
-**caiojulio/caiojulio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working with: Python and JavaScript.
+- 🌱 I’m currently learning: JavaScript, Python, C++, and Computer Networks. 
+- 🕸️ I’m currently a member of the Research Group on Computer Networks and Multimedia Communication (GERCOM / UFPA).
 
-Here are some ideas to get you started:
+<div style="display:inline-block; align-items:center;">
+  <img height=180px src="https://github-readme-stats.vercel.app/api?username=caiojulio&show_icons=true&theme=dracula">
+  <img height=180px src="https://github-readme-stats.vercel.app/api/top-langs/?username=caiojulio&layout=compact&theme=dracula">
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##
+
+<div align="center" style="display:inline-block;">
+  <br>
+  <img height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+  <img height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+  <img height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
+  <img height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+</div>
+
+## 
+<div style="display:inline-block;">
+  <a href="https://mail.google.com/mail/u/0/?pli=1#inbox"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/caiojs/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+</div>
