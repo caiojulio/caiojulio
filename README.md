@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working with: Python and JavaScript.
 - 🌱 I’m currently learning: JavaScript (React), Python (Django), C++ and Computer Networks. 
-- 🕸️ I’m currently a member of the Research Group on Computer Networks and Multimedia Communication (GERCOM / UFPA).
+- 🕸️ I’m currently a member of the Research Group on Computer Networks and Multimedia Communication (GERCOM | UFPA).
 
 <div style="display:inline-block; align-items:center;">
   <a href="https://github.com/caiojulio?tab=repositories"><img height=180px src="https://github-readme-stats.vercel.app/api?username=caiojulio&show_icons=true&theme=dracula"></a>
