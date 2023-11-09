@@ -1,7 +1,7 @@
 <h1> Hi, welcome to my profile! </h1>
 
 - 🔭 I’m currently working with: Python and JavaScript.
-- 🌱 I’m currently learning: JavaScript (React), Python (Django) and Computer Networks. 
+- 🌱 I’m currently learning: JavaScript(React), Python(Django), Java and Computer Networks. 
 - 🕸️ I’m currently a member of the Research Group on Computer Networks and Multimedia Communication (GERCOM | UFPA).
 
 <div style="display:inline-block; align-items:center;">
